@@ -36,10 +36,10 @@ This pack has five helpers, one for each question. Each one asks you questions, 
 - These helpers are for learning and practice. They do not promise money, clients or income.
 - The `examples` folder shows real results for a made-up person, so you can see what to expect.
 
-## Want help using these with a real person beside you?
-This pack is free. If you would like a guided path with a coach, a short call is the way to start.
+## Want the guide and updates by email?
+This pack is free. Leave your details and we will email you the guide and what comes next.
 
-**[Book a free call](https://cal.com/aamar-srivastava/second-income-strategy)** · **[Get the free guide by email](https://yoursecondsalary.in/f/free-ai-agents)**
+**[Get the free guide by email](https://yoursecondsalary.in/l/agents)**
 
 ## Licence
 Free to use for yourself. Please do not resell or republish it. See [LICENSE](LICENSE).
